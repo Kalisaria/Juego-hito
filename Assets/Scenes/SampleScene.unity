@@ -325,7 +325,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   scoreText: {fileID: 905496631}
   hiScoreText: {fileID: 1537662978}
-  scoreCount: 5
+  scoreCount: 0
   hiScoreCount: 50
   pointsPerSecond: 5
   scoreIncreasing: 1
